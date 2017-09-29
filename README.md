@@ -1,5 +1,5 @@
 # Black-n-White-Image-Manupulation
-Used linked lists (actually a array of lists) to encode an image in a compact format and perform operations on this format Mainly the following operations:- 1)Compression 2)De-compression 3)Inversion 4)Merge(OR/AND/XOR) with another image
+Used linked lists (actually a array of lists) to encode an image in a compact format and perform operations on this format Mainly the following operations:- 1) Compression 2) De-compression 3) Inversion 4) Merge(OR/AND/XOR) with another image
 
 Imagine a gray scale image of size NxN. Each pixel is either black (0) or white (1).
 
